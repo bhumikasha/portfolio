@@ -1,0 +1,66 @@
+.myname {
+    font-size: 30px;
+    margin-top: 18%;
+}
+
+.tagline {
+    font-size: 20px;
+}
+
+.designation {
+    font-family: "Calibri";
+    font-weight: 900;
+}
+
+.developertopmargin {
+    margin: auto;
+    transform: scale(1.1, 4);
+    width: 10%;
+    font-family: "Bahnschrift SemiBold Condensed";
+    font-size: 50px;
+    margin-top: 14%;
+    margin-right: 18%;
+}
+
+.flex {
+    display: flex;
+    width: 100%;
+}
+
+.flexColumn {
+    display: flex;
+    flex-direction: column;
+}
+
+.movetoright {
+    width: 70%;
+    text-align: end;
+}
+
+.adjustlabel {
+    font-weight: 600;
+    margin-left: 25%;
+    margin-top: 10%;
+    font-family:'Segoe Print';
+    font-size: 20px;
+}
+
+.datedisplay {
+    font-family: 'Segoe Print';
+    font-weight: 900;
+    font-size: 72px;
+}
+
+.availableforwork {
+    font-size: 20px;
+    text-align: end;
+}
+
+.buttonclass {
+    margin-top: 8%;
+    height: 50px;
+    width: 150px;
+    border: none;
+    font-weight: 900;
+    cursor: pointer;
+}
