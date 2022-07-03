@@ -4,9 +4,9 @@ import Introduction from "./Introduction/introduction";
 
 function Home() {
     return (
-    <>
+    <div>
         <Introduction></Introduction>
-    </>)
+    </div>)
 }
 
 export default Home;
